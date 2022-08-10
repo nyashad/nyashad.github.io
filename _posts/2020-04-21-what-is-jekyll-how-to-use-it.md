@@ -1,7 +1,7 @@
 ---
 title: Deploy a High Availability Web App Using CloudFormation
 layout: post
-post-image: "nyashad.github.io\assets\images\CLOUDFORMATION.jpg"
+post-image: "nyashad.github.io/assets/images/CLOUDFORMATION.jpg"
 description: The github link has some screenshots of the progress of the project during the course of deployment
 tags:
 - webapp
