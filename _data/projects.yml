@@ -6,7 +6,7 @@
   link: https://github.com/nyashad/udapeople-cicd
   image: https://nyashad.github.io/assets/images/CICD.jpg
   description: This is a project based on continuous integration continuous deployment. In this project I made use of Circle Ci, Amazon AWS cloud services, AWS CLI, Cloudformation, Ansible and Prometheus
-- name: Machine Learning Microservice API
+- name: ML Microservices
   link: https://github.com/nyashad/DevOps_Microservices
   image: https://nyashad.github.io/assets/images/Machine-learning-microservices-API.jpg
   description: In this project I applied the skills I learnt to operationalize a Machine Learning Microservice API. I made use of Docker and Kubernetes
