@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Integrating Elementor Forms with Google Sheets via Webhooks"
+title: "A script that integrates Elementor Forms with Google Sheets via Webhooks"
 date: 2024-09-25 
 categories: blog
+post-image: images/Integrating-forms-to-google-sheets-via-webhook.jpg
 ---
 
 Streamlining Form Submissions from Elementor to Google SheetsIf you're using Elementor for your website and need an efficient way to store form submissions, integrating Google Sheets via a webhook is a powerful solution. This setup ensures that all form data is automatically recorded in a structured way, making it easy to analyze and manage.
